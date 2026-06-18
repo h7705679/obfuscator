@@ -4,13 +4,9 @@
 SAF - Safe and Fast
 
 ## Levels 
-1 level: Stroke, Locals, Numbers
-2 level: 1 level + enscrypt lines
-3 level: 2 level + anti tamper
-4 level: 3 level + IsLuauRuntime + VM 4.0
-5 level: 4 level + Base 64 + SHA 384 + secret obfuscator method
-6 level(paid): Level 5 + Mega programm (Best)
-
-## Install:
-Download i.exe and run
-Select level obfuscator
+1 level: Stroke, Locals, Numbers. 
+2 level: VM 2. 
+3 level: VM 3 + AntiTamper
+4 level: VM 4 + AntiTamper + IsLuauRuntime
+5 level: VM 5 + AntiTamper + IsLuauRuntime + Base 64
+6 level: VM 6 + AntiTamper + IsLuauRuntime + Base64 + secret level obfuscation
